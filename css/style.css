@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 80px;
+    background-color: aqua;
+    text-align: center;
+}
+.nav_bar{
+    height: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.feature{
+    height: 250px;
+    background-color: rgb(16, 44, 95);
+    text-align: center;
+}
+.main{
+    overflow: hidden;
+}
+.column_one{
+    height: 400px;
+    width: 33.33%;
+    background-color: darkgoldenrod;
+    float: left;
+    text-align: center;
+}
+.column_two{
+    height: 400px;
+    width: 33.33%;
+    background-color: rgb(95, 184, 11);
+    float: left;
+    text-align: center;
+}
+.column_three{
+    height: 400px;
+    width: 33.33%;
+    background-color: rgb(10, 157, 202);
+    float: left;
+    text-align: center;
+}
+.footer{
+    height: 150px;
+    background-color: darkred;
+    text-align: center;
+}
